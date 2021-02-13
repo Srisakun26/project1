@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <center><h1>Hello Khawpan</h1></center>
+    <h1>contact Khawpan</h1>
     <a href="/">หน้าแรก</a> | <a href="/about">เกี่ยวกับ</a> | <a href="/contact">ติดต่อเราได้นะอิอิ</a>
 </body>
 </html>
